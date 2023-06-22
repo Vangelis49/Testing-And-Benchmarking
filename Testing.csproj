@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Version 1\ConsoleApp1-matrix\ConsoleApp1_V1.csproj" />
+    <ProjectReference Include="..\..\..\Version 2\ConsoleApp2-list\ConsoleApp1_V2.csproj" />
+    <ProjectReference Include="..\..\..\Version 3\ConsoleApp1-matrix\ConsoleApp1_V3.csproj" />
+  </ItemGroup>
+
+</Project>
